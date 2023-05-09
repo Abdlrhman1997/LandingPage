@@ -1,2 +1,2 @@
 # LandingPage
-A landing page create with bootstrap 
+A landing page created with bootstrap 
